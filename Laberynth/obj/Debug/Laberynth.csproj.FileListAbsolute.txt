@@ -1,0 +1,20 @@
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\bin\Debug\Laberynth.exe.config
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\bin\Debug\Laberynth.exe
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\bin\Debug\Laberynth.pdb
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\obj\Debug\Laberynth.csprojAssemblyReference.cache
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\obj\Debug\Laberynth.Form1.resources
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\obj\Debug\Laberynth.Properties.Resources.resources
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\obj\Debug\Laberynth.csproj.GenerateResource.cache
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\obj\Debug\Laberynth.csproj.CoreCompileInputs.cache
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\obj\Debug\Laberynth.exe
+C:\Users\Frogoman\source\repos\Laberynth\Laberynth\obj\Debug\Laberynth.pdb
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\bin\Debug\Laberynth.exe.config
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\bin\Debug\Laberynth.exe
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\bin\Debug\Laberynth.pdb
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\obj\Debug\Laberynth.csprojAssemblyReference.cache
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\obj\Debug\Laberynth.Form1.resources
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\obj\Debug\Laberynth.Properties.Resources.resources
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\obj\Debug\Laberynth.csproj.GenerateResource.cache
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\obj\Debug\Laberynth.csproj.CoreCompileInputs.cache
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\obj\Debug\Laberynth.exe
+D:\Escritorio\Frogoman\Github_Proyects\Labyrinth\Labyrinth Generator\Laberynth\obj\Debug\Laberynth.pdb
